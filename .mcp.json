@@ -9,6 +9,10 @@
         "--browserUrl",
         "http://127.0.0.1:9223"
       ]
+    },
+    "gitlab-orbit": {
+      "type": "http",
+      "url": "https://gitlab.com/api/v4/orbit/mcp"
     }
   }
 }
